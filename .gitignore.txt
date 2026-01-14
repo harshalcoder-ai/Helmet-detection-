@@ -1,0 +1,26 @@
+# -----------------------------
+# Python / YOLO
+# -----------------------------
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+runs/
+*.onnx
+
+# Optional: YOLO model weights (if too big, skip uploading)
+
+# Datasets / outputs
+datasets/
+data/
+helmet_violations/
+
+# Logs
+*.log
+
+# -----------------------------
+# Node / React
+# -----------------------------
+node_modules/
+build/
+.DS_Store

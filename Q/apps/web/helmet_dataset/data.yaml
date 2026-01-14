@@ -1,0 +1,6 @@
+train: D:/create-anything/_/apps/web/helmet_dataset/train/images
+val: D:/create-anything/_/apps/web/helmet_dataset/valid/images
+test: D:/create-anything/_/apps/web/helmet_dataset/test/images
+
+nc: 2
+names: ['With Helmet', 'Without Helmet']

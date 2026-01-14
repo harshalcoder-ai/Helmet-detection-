@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Helmet Detection</title>
+    <style>
+        body {
+            background: #0f172a;
+            color: white;
+            text-align: center;
+            font-family: Arial;
+        }
+        img {
+            border: 3px solid #38bdf8;
+            border-radius: 10px;
+        }
+    </style>
+</head>
+<body>
+    <h1>🚦 Helmet Detection System</h1>
+    <p>Live Camera Feed</p>
+    <img src="{{ url_for('video') }}" width="800">
+</body>
+</html>
