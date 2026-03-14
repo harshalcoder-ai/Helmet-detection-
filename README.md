@@ -44,12 +44,6 @@ Results are saved in:
 
 runs/detect/exp
 📸 Example Output
-Helmet Detected	No Helmet Detected
-
-	
-🎥 Demo GIF (Optional)
-
-You can also show a short video demo converted into GIF:
 
 ![Demo](outputs/demo.gif)
 🚀 Future Improvements
